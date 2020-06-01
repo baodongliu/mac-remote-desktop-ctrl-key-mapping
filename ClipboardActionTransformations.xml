@@ -78,7 +78,11 @@
                 <to control="1" key="R" />
             </transform>
             <transform>
-                <from command="1" key="S" />
+                <from command="1" key="T" />
+                <to control="1" key="T" />
+            </transform>
+             <transform>
+                <from command="1" key="T" />
                 <to control="1" key="T" />
             </transform>
             <transform>
@@ -188,6 +192,10 @@
             </transform>
             <transform>
                 <from command="1" key="S" />
+                <to control="1" key="S" />
+            </transform>
+             <transform>
+                <from command="1" key="T" />
                 <to control="1" key="T" />
             </transform>
             <transform>
